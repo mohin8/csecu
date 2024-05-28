@@ -13,5 +13,6 @@ fatickchari
 chittagong
 
 bangladesh
+logo alignment in center
 
  
